@@ -1,0 +1,276 @@
+{
+	"barNecklaces": {
+		"items": [
+			{
+				"id": 1,
+				"name": "Carnelian necklace",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/b98477/3820726182/il_1588xN.3820726182_ny79.jpg",
+				"stone": "A stabilising stone, Carnelian restores vitality and motivation, and stimulates creativity. It gives courage, promotes positive life choices, dispels apathy and motivates for success. Carnelian is useful for overcoming abuse of any kind. It helps in trusting yourself and your perceptions. It overcomes negative conditioning and encourages steadfastness. Carnelian improves analytic abilities and clarifies perception. It sharpens concentration and dispels mental lethargy. Protects against envy, rage and resentment. Calms anger, banishes emotional negativity and replaces it with a love of life. Carnelian boosts fertility and stimulates sexuality."
+			},
+			{
+				"id": 2,
+				"name": "Howlite gemstone necklace",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/e5db3e/3840184472/il_1588xN.3840184472_2a5v.jpg",
+				"stone": "This stone teaches you patience and helps to remove rage and uncontrolled anger, it helps to ensure calm and reasoned communication, strengthens the memory and instils a need for knowledge. It can calm turbulent emotions, especially those that have past life causes, absorbs stress, tension, anxiety and other intense emotions."
+			},
+			{
+				"id": 3,
+				"name": "Black Obsidian pendant",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/ab28e7/3904733667/il_1588xN.3904733667_jdf0.jpg",
+				"stone": "A strongly protective stone, black obsidian forms a shield against negativity. It blocks psychic attack and absorbs negative energies from the environment. Obsidian draws out mental stress and tension. It stimulates growth on all levels, urging exploration of the unknown and opening new horizons."
+			},
+			{
+				"id": 4,
+				"name": "Amethyst pendant",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/dce9d0/3887692723/il_1588xN.3887692723_dvhn.jpg",
+				"stone": "The Amethyst crystal properties are deeply connected to the third eye chakra, the center of spirituality and intuition, and the crown chakra, the chakra that governs our connection to the universe. These energy centers can be associated with the color purple, which helps to explain why Amethyst crystal is such a powerful stone to balance, open, and activate the third eye and crown chakras. When working with the Amethyst crystal healing properties to bring more peace, relaxation, and spiritual awareness into your life, you’ll begin to understand why Amethyst is one of the most popular and sought after crystals around the world."
+			},
+			 {
+				"id": 5,
+				"name": "Carnelian pendant",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/ed1a5a/3898061435/il_1588xN.3898061435_4xy1.jpg",
+				"stone": "A stabilising stone, Carnelian restores vitality and motivation, and stimulates creativity. It gives courage, promotes positive life choices, dispels apathy and motivates for success. Carnelian is useful for overcoming abuse of any kind. It helps in trusting yourself and your perceptions. It overcomes negative conditioning and encourages steadfastness. Carnelian improves analytic abilities and clarifies perception. It sharpens concentration and dispels mental lethargy. Protects against envy, rage and resentment. Calms anger, banishes emotional negativity and replaces it with a love of life. Carnelian boosts fertility and stimulates sexuality."
+			 },
+			 {
+				"id": 6,
+				"name": "Angelite gemstone necklace",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/cf7c7a/3857111698/il_1588xN.3857111698_k6hp.jpg",
+				"stone": "Angelite is a peaceful crystal that embodies the gentle vibrations of your guardian angels. Working with this crystal infuses your spirit with serenity and positivity. It will heighten your awareness of the invisible world and remind you that angels are all around you. Even just gazing at its heavenly blue hues invokes connection with the celestial realm. When you feel its divine energies of support, the angelite meaning acts as a direct line between you and the angel realm."
+			 },
+			 {
+				"id": 7,
+				 "name": "Lepidolite gemstone necklace",
+				 "price": 18,
+				 "image": "https://i.etsystatic.com/27612067/r/il/3abe28/3904610123/il_1588xN.3904610123_4vf0.jpg",
+				 "stone": "Lepidolite is a beautiful lilac stone known as one of the best crystals for depression. It can dissipate negative thoughts and feelings, brings balance for those who tend to be excessively worried. Lepidolite can be an efficient aid in dealing with depression by awakening self-confidence and self-care."
+			 },
+			 {
+				"id": 8,
+				"name": "Rose quartz necklace",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/f06d27/3898068347/il_1588xN.3898068347_mayk.jpg",
+				"stone": "Rose Quartz is the stone of universal love. It restores trust and harmony in relationships, encouraging unconditional love. Rose Quartz purifies and opens the heart at all levels to promote love, self-love, friendship, deep inner healing and feelings of peace. Calming and reassuring, it helps to comfort in times of grief. Rose Quartz dispels negativity and protects against environmental pollution, replacing it with loving vibes. It encourages self forgiveness and acceptance invoking self trust and self worth."
+			 },
+			 {
+				"id": 9,
+				"name": "Sunstone necklace",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/05a9e5/3850550108/il_1588xN.3850550108_no1o.jpg",
+				"stone": "Sunstone instills good nature, heightens intuition and allows the real self to shine through happily. It dissipates fearfulness, alleviates stress and increases vitality. Encourages independence and originality. Especially helpful to those who have difficulty saying “No” to others."
+			 },
+			 {
+				"id": 10,
+				"name": "Rhodonite necklace",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/4e3f06/3904727301/il_1588xN.3904727301_1uvh.jpg",
+				"stone": "Rhodonite is a stone of compassion, an emotional balancer that clears away emotional wounds and scars from the past, and that nurtures love. It stimulates, clears and activates the heart. Rhodonite grounds energy, balances yin-yang, and aids in achieving one's highest potential. It heals emotional shock and panic."
+			 },
+			 {
+				"id": 11,
+				"name": "Amazonite necklace",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/76eed5/3857109390/il_1588xN.3857109390_eii3.jpg",
+				"stone": "Amazonite is a stone of peace, truth, harmony, and communication. It gently soothes the nerves, and it’s energies can be felt to the touch. This stone radiates blue rays full of rejuvenating vibrations that are here to calm the heart. Amazonite encourages adventure, love, inspiration, and free speech. Amazonite also empowers and strengthens any intention that may be set in it. This special mineral assists in manifesting a path to our biggest dreams and desires. Amazonite reminds us that we are in control of our own destiny and our decisions will affect our outcome."
+			 },
+			  {
+				"id": 12,
+				"name": "Malachite necklace",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/fe02fb/3887651831/il_1588xN.3887651831_luel.jpg",
+				"stone": "Malachite absorbs negative energies and pollutants, picking them up from the atmosphere and from the body. Guards against radiation and clears electromagnetic pollution. Malachite clears and activates the chakras and attunes to spiritual guidance. It opens the heart to unconditional love. Encourages risk-taking and change, breaks unwanted ties and outworn patterns, and teaches how to take responsibility for one’s actions, thoughts and feelings. Malachite releases inhibitions and develops empathy with others. It alleviates mental disturbances and combats dyslexia. Enables you to absorb and process information. Releases negative experiences and old traumas. Stimulates dreams."
+			  },
+			  {
+				"id": 13,
+				"name": "Blue Apatite necklace",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/b09ee1/3887646545/il_1588xN.3887646545_tvuq.jpg",
+				"stone": "Blue Apatite opens the throat chakra. It enhances communication in groups and facilitates public speaking. It heals the heart and emotions. Blue Apatite connects to a very high level of spiritual guidance."
+			  },
+			  {
+				"id": 14,
+				"name": "Citrine necklace",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/ec420e/3887669259/il_1588xN.3887669259_i4l6.jpg",
+				"stone": "Citrine is a very positive and happy-go-lucky stone that attracts abundance and financial gain. It is connected with the Solar Plexus chakra, the sun, and the zodiac signs, Leo and Gemini. Citrine is a great aid for all who are struggling with self-worth, confidence and boundaries. One of the best Citrine healing properties is its ability to reduce sluggishness and give us energy, providing alignment and creativity in life. People who have panic attacks, anxiety attacks, PTSD or who have been in traumatic relationships can benefit from having or wearing a Citrine stone. It keeps us elevated and helps us keep our head above the water."
+			  },
+			  {
+				"id": 15,
+				"name": "Green aventurine necklace",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/753741/3887676839/il_1588xN.3887676839_luu8.jpg",
+				"stone": "The Aventurine crystal stone meaning is linked with the heart plexus chakra, which makes it a powerful gem for calming negative emotions that often gets stuck in the heart center. Working with this stone allows the gentle and supportive Aventurine crystal healing properties to flow through your chakras, which helps promote harmony and balance while clearing away toxic emotions. This rush of positive energy and heartopening boosts your confidence and opens your energy field to attract new possibilities and opportunities, which is what gives Aventurine its luck-enhancing power."
+			  },
+			  {
+				"id": 16,
+				"name": "Amethyst bead necklace",
+				"price": 18,
+				"image": "https://i.etsystatic.com/27612067/r/il/d08e50/3904588357/il_1588xN.3904588357_il7i.jpg",
+				"stone": "The Amethyst crystal properties are deeply connected to the third eye chakra, the center of spirituality and intuition, and the crown chakra, the chakra that governs our connection to the universe. These energy centers can be associated with the color purple, which helps to explain why Amethyst crystal is such a powerful stone to balance, open, and activate the third eye and crown chakras. When working with the Amethyst crystal healing properties to bring more peace, relaxation, and spiritual awareness into your life, you’ll begin to understand why Amethyst is one of the most popular and sought after crystals around the world."
+			  }
+		],
+		"id": 1,
+		"image": "https://i.etsystatic.com/27612067/r/il/e7b509/3840152526/il_1588xN.3840152526_6lle.jpg",
+		"name": "Bar-Neclaces",
+		"description": "Green aventurine, Malachite, Amethyst"
+	},
+	"beadedNecklaces": {
+		"items": [
+			{
+				"id": 17,
+				"name": "Citrine necklace",
+				"price": 20,
+				"image": "https://i.etsystatic.com/27612067/r/il/1d52e9/3874468832/il_1588xN.3874468832_52if.jpg",
+				"stone": "Citrine is a very positive and happy-go-lucky stone that attracts abundance and financial gain. It is connected with the Solar Plexus chakra, the sun, and the zodiac signs, Leo and Gemini. Citrine is a great aid for all who are struggling with self-worth, confidence and boundaries. One of the best Citrine healing properties is its ability to reduce sluggishness and give us energy, providing alignment and creativity in life. People who have panic attacks, anxiety attacks, PTSD or who have been in traumatic relationships can benefit from having or wearing a Citrine stone. It keeps us elevated and helps us keep our head above the water."
+			},
+			{
+				"id": 18,
+				"name": "Garnet necklace",
+				"price": 20,
+				"image": "https://i.etsystatic.com/27612067/r/il/5389aa/3874507966/il_1588xN.3874507966_p62s.jpg",
+				"stone": "Garnet cleanses and re-energises the chakras. It revitalises, purifies and balances energy, bringing serenity or passion as appropriate. Inspires love and devotion. Garnet balances the sex drive and alleviates emotional disharmony. It activates and strengthens the survival instinct, bringing courage and hope. Stimulates past-life recall. Sharpens perceptions of oneself and others. Garnet removes inhibitions and taboos. It opens the heart and bestows self-confidence."
+			},
+			{
+				"id": 19,
+				"name": "Tree agate necklace",
+				"price": 25,
+				"image": "https://i.etsystatic.com/27612067/r/il/bdcbf3/3889598620/il_1588xN.3889598620_blf0.jpg",
+				"stone": "Tree agate is considered to be the stone which brings inner peace. It calms the nerves and if combined with clear quartz, it proves to be a Talisman for deep meditation and prayer. As your nerves are calmed you are able to focus to the oneness, dissolve egoism and arrogance. Tree agate not only calms down the nerves but also helps in improving mental functions. It brings clarity and stability in mind, overcomes the negative emotions and infuses love into the chakras. The quiet energy of tree agate makes the body subtle and this characteristic of tree agate helps in achieving stability and balance in almost all the aspects of life. The most important feature of tree agate is that it works on the root cause rather than symptom. This might be the slow and deliberate process but the impact proves to be lasting."
+			},
+			{
+				"id": 20,
+				"name": "Dainty amethyst necklace",
+				"price": 32,
+				"image": "https://i.etsystatic.com/27612067/r/il/12da36/3889491276/il_1588xN.3889491276_t4zi.jpg",
+				"stone": "Amethyst is a natural tranquiliser, it relieves stress and strain, soothes irritability, balances mood swings, dispels anger, rage, fear and anxiety. Alleviates sadness and grief, and dissolves negativity. Amethyst activates spiritual awareness, opens intuition and enhances psychic abilities."
+			},
+			{
+				"id": 21,
+				"name": "Green aventurine necklace",
+				"image": "https://i.etsystatic.com/27612067/r/il/6cdf34/3934475667/il_1588xN.3934475667_ctfe.jpg",
+				"stone": "The Aventurine crystal stone meaning is linked with the heart plexus chakra, which makes it a powerful gem for calming negative emotions that often gets stuck in the heart center. Working with this stone allows the gentle and supportive Aventurine crystal healing properties to flow through your chakras, which helps promote harmony and balance while clearing away toxic emotions. This rush of positive energy and heartopening boosts your confidence and opens your energy field to attract new possibilities and opportunities, which is what gives Aventurine its luck-enhancing power.",
+				"description": "Beaded necklace with natural aventurine chips and stainless steel, sterling silver or gold filled accents."
+			},
+			{
+				"id": 22,
+				"name": "Tiger's eye and lava beaded necklace",
+				"price": 28,
+				"image": "https://i.etsystatic.com/27612067/r/il/32bf4d/3879963840/il_1588xN.3879963840_aigo.jpg",
+				"stone": "Tiger's Eye brings confidence, strength, courage, protection and good luck. It sharpens the senses, promotes intuition and helps one to be practical, centered and grounded. It enhances personal power, allows clarity, good judgement, clear perception and insight, aiding in good decision making. Tiger Eye helps you stay centered and calmly practical despite the ups and downs of life. It helps you balance polarities and accept contradictions, taking life as it comes and responding to the needs of the moment without judgment. Lava stone is a grounding stone that strengthens one's connection to Mother Earth. It gives us strength and courage, allowing us stability through times of change. It provides guidance and understanding in situations where we may need to bounce back."
+			},
+			{
+				"id": 23,
+				"name": "Moonstone necklace",
+				"price": 20,
+				"image": "https://i.etsystatic.com/27612067/r/il/686e47/3936933605/il_1588xN.3936933605_1o61.jpg",
+				"stone": "The Moonstone crystal stone meaning is linked with the energy of the moon. Because it embodies the energy of light, connecting with a Moonstone crystal also works to raise your vibration and uplift your spirit. Together, these forces guide you out of the darkness and into the light. The Moonstone crystal meaning is also associated with the inner goddess, a symbol of fertility and sensuality.",
+				"description": "Moonstone chips beaded necklace with stainless steel, sterling silver or gold filled accents"
+			},
+			{
+				"id": 24,
+				"name": "Rose quartz necklace",
+				"price": 20,
+				"image": "https://i.etsystatic.com/27612067/r/il/658eb1/3927429097/il_1588xN.3927429097_2k7j.jpg",
+				"stone": "Rose Quartz is the stone of universal love. It restores trust and harmony in relationships, encouraging unconditional love. Rose Quartz purifies and opens the heart at all levels to promote love, self-love, friendship, deep inner healing and feelings of peace. Calming and reassuring, it helps to comfort in times of grief. Rose Quartz dispels negativity and protects against environmental pollution, replacing it with loving vibes. It encourages self forgiveness and acceptance invoking self trust and self worth."
+			},
+			{
+				"id": 25,
+				"name": "Natural necklace with lava, black tourmaline and carnelian",
+				"price": 32,
+				"image": "https://i.etsystatic.com/27612067/r/il/c984f3/3936995855/il_1588xN.3936995855_pq8t.jpg",
+				"stone": "Black Tourmaline is a protective stone that is very good for keeping negative vibrations away from your aura and out of your body space. Black Tourmaline is known to be one of the most effective and powerful stones that can heal and protect you physically, emotionally, mentally, and spiritually. Lava stone is a grounding stone that strengthens one's connection to Mother Earth. allowing us stability through times of change. It provides guidance and understanding in situations where we may need to bounce back.",
+				"description": "Beaded necklace with black tourmaline, lava and carnelian gemstone beads. The necklace also features stainless steel accents, the entral ones with clear zirconia"
+			},
+			{
+				"id": 26,
+				"name": "Black tourmaline and labradorite necklace",
+				"price": 32,
+				"image": "https://i.etsystatic.com/27612067/r/il/594191/3937051753/il_1588xN.3937051753_ijkd.jpg",
+				"stone": "Black Tourmaline is a protective stone that is very good for keeping negative vibrations away from your aura and out of your body space. Black Tourmaline is known to be one of the most effective and powerful stones that can heal and protect you physically, emotionally, mentally, and spiritually. With the mystical energy of labradorite, sparks of neon will illuminate the path to your destiny. Labradorite is a stone of magic and curiosity. Wearing or holding Labradorite helps you tap into a higher state of consciousness. It’s a protective stone as well, so it will keep your energy body grounded, while allowing you to explore the expanded states of the universe. By connecting to and healing all chakras, it boosts mental and spiritual power. Labradorite opens you up, forcing you to become self-aware enough to see what you want.",
+				"description": "Beaded necklace with black tourmaline, labradorite beads, stainless steel, sterling silver or gold filled accents."
+			},
+			{
+				"id": 27,
+				"name": "Rose quartz and garnet necklace",
+				"price": 30,
+				"image": "https://i.etsystatic.com/27612067/r/il/0021d0/3889584666/il_1588xN.3889584666_fa03.jpg",
+				"stone": "Rose Quartz is the stone of universal love. It restores trust and harmony in relationships, encouraging unconditional love. Rose Quartz purifies and opens the heart at all levels to promote love, self-love, friendship, deep inner healing and feelings of peace. Calming and reassuring, it helps to comfort in times of grief. Rose Quartz dispels negativity and protects against environmental pollution, replacing it with loving vibes. It encourages self forgiveness and acceptance invoking self trust and self worth. Garnet cleanses and re-energises the chakras. It revitalises, purifies and balances energy, bringing serenity or passion as appropriate. Inspires love and devotion. Garnet balances the sex drive and alleviates emotional disharmony. It activates and strengthens the survival instinct, bringing courage and hope. Stimulates past-life recall. Sharpens perceptions of oneself and others. Garnet removes inhibitions and taboos. It opens the heart and bestows self-confidence.",
+				"description": "Beaded necklace with rose quartz and garnet beads, stainless steel, sterling silver or gold filled accents."
+			},
+			{
+				"id": 28,
+				"name": "Amethyst necklace",
+				"price": 20,
+				"image": "https://i.etsystatic.com/27612067/r/il/30519b/3927402943/il_1588xN.3927402943_fvry.jpg",
+				"stone": "Amethyst is a natural tranquiliser, it relieves stress and strain, soothes irritability, balances mood swings, dispels anger, rage, fear and anxiety. Alleviates sadness and grief, and dissolves negativity. Amethyst activates spiritual awareness, opens intuition and enhances psychic abilities."
+			},
+			{
+				"id": 29,
+				"name": "Carnelian necklace",
+				"price": 30,
+				"image": "https://i.etsystatic.com/27612067/r/il/4ebb3d/3889635874/il_1588xN.3889635874_dtf0.jpg",
+				"stone": "A stabilising stone, Carnelian restores vitality and motivation, and stimulates creativity. It gives courage, promotes positive life choices, dispels apathy and motivates for success. Carnelian is useful for overcoming abuse of any kind. It helps in trusting yourself and your perceptions. It overcomes negative conditioning and encourages steadfastness. Carnelian improves analytic abilities and clarifies perception. It sharpens concentration and dispels mental lethargy. Protects against envy, rage and resentment. Calms anger, banishes emotional negativity and replaces it with a love of life. Carnelian boosts fertility and stimulates sexuality.",
+				"description": "Beaded carnelian necklace with stainless steel silver or gold accents and stainless steel beads with clear zirconia"
+			},
+			{
+				"id": 30,
+				"name": "Aquamarine necklace",
+				"price": 20,
+				"image": "https://i.etsystatic.com/27612067/r/il/684710/3874425822/il_1588xN.3874425822_ga14.jpg",
+				"stone": "Aquamarine washes away stress and fear, leaving room for peace and tranquility. It helps with nervousness and emotional eruptions caused by excessive stress. It encourages feelings of security and self-confidence. Aquamarine is the perfect stone for dealing with a stressful life and gives you the ability to shed unwanted emotional baggage."
+			}
+		],
+		"id": 2,
+		"image": "https://i.etsystatic.com/27612067/r/il/30519b/3927402943/il_1588xN.3927402943_fvry.jpg",
+		"name": "Beaded-Necklaces",
+		"description": "Aquamarine, Rose quartz, Tiger's eye"
+	},
+	"pendantNecklaces": {
+		"items" : [
+			{
+				"id": 31,
+				"name": "Amethyst moon necklace",
+				"price": 18.50,
+				"image": "https://i.etsystatic.com/27612067/r/il/e62c01/3523881846/il_1588xN.3523881846_6lj9.jpg",
+				"stone": "This calming stone allows you to still your mind, which can aid in sleep, meditation, and generally moving through life from a higher state of being. No matter who you are or what your goals are in life, an amethyst crystal can support you along your life's journey."
+			},
+			{
+				"id": 32,
+				"name": "Amazonite dainty necklace",
+				"price": 16,
+				"image": "https://i.etsystatic.com/27612067/r/il/89d974/4108446412/il_1588xN.4108446412_ae7s.jpg",
+				"stone": "Amazonite is a stone of peace, truth, harmony, and communication. It gently soothes the nerves, and it’s energies can be felt to the touch. This stone radiates blue rays full of rejuvenating vibrations that are here to calm the heart. Amazonite encourages adventure, love, inspiration, and free speech. Amazonite also empowers and strengthens any intention that may be set in it. This special mineral assists in manifesting a path to our biggest dreams and desires. Amazonite reminds us that we are in control of our own destiny and our decisions will affect our outcome."
+			},
+			{
+				"id": 33,
+				"name": "Natural amethyst wire wrapped necklace",
+				"price": 15,
+				"image": "https://i.etsystatic.com/27612067/r/il/8f8bc1/3949206390/il_1588xN.3949206390_i6v2.jpg",
+				"stone": "This calming stone allows you to quiet your mind, which can aid in sleep, meditation, and generally moving through life from a higher state of being. No matter who you are or what your goals are in life, an Amethyst crystal can support you along your life’s journey. Some of the most well-known uses to connect with the Amethyst crystal stone meaning are for spiritual practices, specifically deepening your connection to self and your ability to tap into your intuition. Besides facilitating your intuitive sense, the Amethyst crystal meaning also helps you work toward inner peace and allows you to rest and relax when you need to most – before bed, during a stressful situation, or before you begin a meditation. Although not as well-known for protective abilities, Amethyst also works to protect your spirit by surrounding your energy field in a bubble of violet light. By raising your energetic vibration and keeping your spirit at ease, this stone can be a powerful addition to your energetic armor."
+			},
+			{
+				"id": 34,
+				"name": "Amethyst necklace",
+				"price": 15,
+				"image": "https://i.etsystatic.com/27612067/r/il/d361ac/3662555237/il_1588xN.3662555237_9hm7.jpg",
+				"stone": "This calming stone allows you to quiet your mind, which can aid in sleep, meditation, and generally moving through life from a higher state of being. No matter who you are or what your goals are in life, an Amethyst crystal can support you along your life’s journey. Some of the most well-known uses to connect with the Amethyst crystal stone meaning are for spiritual practices, specifically deepening your connection to self and your ability to tap into your intuition. Besides facilitating your intuitive sense, the Amethyst crystal meaning also helps you work toward inner peace and allows you to rest and relax when you need to most – before bed, during a stressful situation, or before you begin a meditation. Although not as well-known for protective abilities, Amethyst also works to protect your spirit by surrounding your energy field in a bubble of violet light. By raising your energetic vibration and keeping your spirit at ease, this stone can be a powerful addition to your energetic armor."
+			},
+			{
+				"id": 35,
+				"name": "Lapis lazuli necklace",
+				"price": 15,
+				"image": "https://i.etsystatic.com/27612067/r/il/a01344/3614944402/il_1588xN.3614944402_pe0h.jpg",
+				"stone": "asdafas"
+			}
+		],
+		"id": 3,
+		"image": "https://i.etsystatic.com/27612067/r/il/30519b/3927402943/il_1588xN.3927402943_fvry.jpg",
+		"name": "Beaded-Necklaces",
+		"description": "Aquamarine, Rose quartz, Tiger's eye"
+	}
+}
