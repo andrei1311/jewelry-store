@@ -2,7 +2,9 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      128: "32rem",
+    },
   },
   plugins: [require("tw-elements/dist/plugin")],
 };

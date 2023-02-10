@@ -116,7 +116,7 @@
 		],
 		"id": 1,
 		"image": "https://i.etsystatic.com/27612067/r/il/e7b509/3840152526/il_1588xN.3840152526_6lle.jpg",
-		"name": "Bar-Neclaces",
+		"name": "Bar Neclaces",
 		"description": "Green aventurine, Malachite, Amethyst"
 	},
 	"beadedNecklaces": {
@@ -227,7 +227,7 @@
 		],
 		"id": 2,
 		"image": "https://i.etsystatic.com/27612067/r/il/30519b/3927402943/il_1588xN.3927402943_fvry.jpg",
-		"name": "Beaded-Necklaces",
+		"name": "Beaded Necklaces",
 		"description": "Aquamarine, Rose quartz, Tiger's eye"
 	},
 	"pendantNecklaces": {
@@ -269,8 +269,8 @@
 			}
 		],
 		"id": 3,
-		"image": "https://i.etsystatic.com/27612067/r/il/30519b/3927402943/il_1588xN.3927402943_fvry.jpg",
-		"name": "Beaded-Necklaces",
+		"image": "https://i.etsystatic.com/27612067/r/il/c32eb4/3523879254/il_1588xN.3523879254_4ryg.jpg",
+		"name": "Pendant Necklaces",
 		"description": "Aquamarine, Rose quartz, Tiger's eye"
 	}
 }

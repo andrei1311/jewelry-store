@@ -1,15 +1,15 @@
 import React from "react";
+import { Link } from "react-router-dom";
+import Logo from "../../assets/Logo1.png";
 
 const Header = () => {
   return (
-    <header className="bg-red-200">
-      <div className="container mx-auto px-4 py-8 flex items-center">
+    <header className="bg-white">
+      <div className="container mx-auto px-4 flex items-center">
         <div className="mr-auto md:w-48 flex-shrink-0">
-          <img
-            className="h-8 md:h-10"
-            src="https://i.ibb.co/98pHdFq/2021-10-27-15h51-15.png"
-            alt=""
-          />
+          <Link to="/">
+            <img className="h-42 -ml-24 -mt-8" src={Logo} alt="Logo" />
+          </Link>
         </div>
         <div className="w-full max-w-xs xl:max-w-lg 2xl:max-w-2xl bg-gray-100 rounded-md hidden xl:flex items-center">
           <select
@@ -39,14 +39,6 @@ const Header = () => {
               d="M508.5 468.9L387.1 347.5c-2.3-2.3-5.3-3.5-8.5-3.5h-13.2c31.5-36.5 50.6-84 50.6-136C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c52 0 99.5-19.1 136-50.6v13.2c0 3.2 1.3 6.2 3.5 8.5l121.4 121.4c4.7 4.7 12.3 4.7 17 0l22.6-22.6c4.7-4.7 4.7-12.3 0-17zM208 368c-88.4 0-160-71.6-160-160S119.6 48 208 48s160 71.6 160 160-71.6 160-160 160z"
             ></path>
           </svg>
-        </div>
-        <div className="ml-auto md:w-48 hidden sm:flex flex-col place-items-end">
-          <span className="font-bold md:text-xl text-white">
-            8 800 332 65-66
-          </span>
-          <span className="font-semibold text-sm text-gray-400">
-            Support 24/7
-          </span>
         </div>
         <nav className="contents">
           <ul className="ml-4 xl:w-48 flex items-center justify-end">
