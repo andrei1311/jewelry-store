@@ -27,14 +27,14 @@ const Category = () => {
             alt="Product image"
             className="w-60 h-60 p-4"
           />
-          <button
-            className="text-center mb-4 ml-8  text-white py-3 px-2"
-            style={{ backgroundColor: "#83786f" }}
-          >
-            <Link to="/product" className="">
+          <Link to={category.id} className="">
+            <button
+              className="text-center mb-4 ml-8  text-white py-3 px-2"
+              style={{ backgroundColor: "#83786f" }}
+            >
               Discover the collection
-            </Link>
-          </button>
+            </button>
+          </Link>
         </div>
       ))}
     </div>

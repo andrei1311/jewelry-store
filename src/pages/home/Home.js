@@ -1,6 +1,6 @@
 import React from "react";
 import Banner from "../../components/Banner/Banner";
-import Divider from "../../components/Divider/Divider";
+import ProductsList from "../../components/products/ProductsList";
 import Category from "../category/Category";
 
 const Home = () => {
@@ -8,7 +8,6 @@ const Home = () => {
     <div>
       <Banner />
       <div>
-        <Divider />
         <Category />
       </div>
     </div>

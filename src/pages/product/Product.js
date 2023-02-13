@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-const Product = ({ match }) => {
+const Product = () => {
   const [product, setProduct] = useState([]);
 
   useEffect(() => {
@@ -12,12 +12,6 @@ const Product = ({ match }) => {
 
     fetchData();
   }, []);
-
-  // const products = product.find((p) => p.id === parseInt(match.params.id, 1));
-
-  // if (!products) {
-  //   return <h2>Product not found!</h2>;
-  // }
 
   return (
     <div>
