@@ -1,6 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
-// import { Carousel } from "./components/carousel/Carousel";
 import { Footer } from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
 import ProductsList from "./components/products/ProductsList";
@@ -15,8 +14,8 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/category/:id" element={<Category />} />
-        <Route path="/products/categoryId" element={<ProductsList />} />
-        <Route path="/products/:id" element={<Product />} />
+        <Route path="/products/:categoryId" element={<ProductsList />} />
+        <Route path="products/:productId" element={<Product />} />
       </Routes>
       <Footer />
     </BrowserRouter>

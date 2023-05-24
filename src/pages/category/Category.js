@@ -15,7 +15,7 @@ const Category = () => {
   }, []);
 
   return (
-    <div class="flex justify-around ">
+    <div className="flex justify-around ">
       {categories.map((category) => (
         <div
           key={category.id}
@@ -24,7 +24,7 @@ const Category = () => {
           <h2 className="text-center">{category.name}</h2>
           <img
             src={category.image}
-            alt="Product image"
+            alt={category.name}
             className="w-60 h-60 p-4"
           />
           <Link to={`products/${category.id}`} className="">

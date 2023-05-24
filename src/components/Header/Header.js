@@ -86,7 +86,7 @@ const Header = () => {
               </a>
             </li>
             <li className="ml-2 lg:ml-4 relative inline-block">
-              <a className="" href="">
+              <a className="one" href="">
                 <div className="absolute-top-1 right-0 z-10 bg-red-300 text-xs font-bold px-1 rounded-full mb-1">
                   2
                 </div>
